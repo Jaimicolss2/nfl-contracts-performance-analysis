@@ -76,7 +76,7 @@ pip install -r requirements.txt
 
 ## 📈 Estado del Proyecto
 
-- [x] Fase 1: Planeación y Configuración
+- [x] [OK] Fase 1: Planeación y Configuración
 - [ ] Fase 2: Diseño de Base de Datos
 - [ ] Fase 3: Extracción y Carga de Datos
 - [ ] Fase 4: Análisis Exploratorio
